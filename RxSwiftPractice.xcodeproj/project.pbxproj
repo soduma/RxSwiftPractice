@@ -18,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		7216F6DB5F1F6C81B1EA7740 /* Pods-RxSwiftPractice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftPractice.release.xcconfig"; path = "Target Support Files/Pods-RxSwiftPractice/Pods-RxSwiftPractice.release.xcconfig"; sourceTree = "<group>"; };
+		A003588427818DAA00CDC01B /* CombiningOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CombiningOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		A0AEE947277AE97E004FD36F /* RxSwiftPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxSwiftPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0AEE94A277AE97E004FD36F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A0AEE94C277AE97E004FD36F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +65,7 @@
 				A0AEE960277C5575004FD36F /* Subjects.playground */,
 				A0F0A38A277D55DD0086142A /* FilteringOperator.playground */,
 				A0F0A38B277D6BE60086142A /* TransformingOperators.playground */,
+				A003588427818DAA00CDC01B /* CombiningOperators.playground */,
 				A0AEE949277AE97E004FD36F /* RxSwiftPractice */,
 				A0AEE948277AE97E004FD36F /* Products */,
 				93165570873BA1324C84072A /* Pods */,
